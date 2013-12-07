@@ -6,6 +6,6 @@ BlockingFQueue
 
 
 ============
-* Fast and Persistent Blacking Queue
+* Fast and Persistent Blocking Queue
 * Data is persisted on disk
 
